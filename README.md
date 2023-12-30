@@ -1,6 +1,11 @@
 ![image](https://github.com/mcbhavana27/Netflix-clone/assets/58338319/57e85857-7d90-48a8-b852-d07c95593f7c)![image](https://github.com/mcbhavana27/Netflix-clone/assets/58338319/1e89f78a-59c9-4b2e-87e5-8475192dc1ed)![image](https://github.com/mcbhavana27/Netflix-clone/assets/58338319/abe0f6eb-5f3b-4b96-9c1f-67b583abbe05)# Netflix-clone
 
-
+## Implemented Features
+-> Login page using Angular Forms
+-> Added Toaster(Alert Service) if user logged successfully/fail.
+-> Added Login service (stores user's token locally and it will redirect to browse page only if user has token else it remains in login page itself)
+-> Added Gaurds to protect the browse page
+-> Used TMDB Movie API to fetch the movies and we pass the api results to the movie category
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
