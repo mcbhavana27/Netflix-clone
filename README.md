@@ -3,9 +3,9 @@
 ## Implemented Features
 - Login page using Angular Forms
 - Added Toaster(Alert Service) if user logged successfully/fail.
-- Added Login service (stores user's token locally and it will redirect to browse page only if user has token else it remains in login page itself)
+- Added Login service to store the token locally
 - Added Gaurds to protect the browse page
-- Used TMDB Movie API to fetch the movies and we pass the api results to the movie category
+- Used TMDB Movie API to fetch the movies(movie service) and we pass the api results to the movie category
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
