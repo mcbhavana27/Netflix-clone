@@ -1,5 +1,7 @@
 # Netflix-clone
 
+ A web application that replicates the functionality and similiar features of the Netflix platform.
+
 ## Implemented Features
 - Login page using Angular Forms
 - Added Toaster(Alert Service) if user logged successfully/fail.
